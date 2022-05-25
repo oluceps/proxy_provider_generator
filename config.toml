@@ -1,0 +1,5 @@
+[subscribe]
+name = "url"
+
+[work_dir]
+clash = "/etc/Clash-Meta/proxy_providers/"
