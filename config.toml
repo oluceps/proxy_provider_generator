@@ -1,7 +1,5 @@
 [subscribe]
-ski = "https://api.skimeow.com/api/v1/client/subscribe?token=3024f4a5d4af594aba258d67965db0a3"
-abc = "https://sublist.20220301.xyz/api/v1/client/subscribe?token=4beaea0c90e4aa7acfdaeb4c19c1c4dc"
-awsl = "https://awsl.xyz/qwertyuiop/6DKTXNbOopyDej32?config_type=1&config_ver=11"
+name = "url"
 
 [work_dir]
 clash = "/etc/Clash-Meta/proxy_providers/"

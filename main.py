@@ -4,7 +4,7 @@ import yaml
 import requests
 import toml
 
-tml = toml.loads(open("/home/rito/Engineering/parse_to_provider/config.toml", 'r').read())
+tml = toml.loads(open("./config.toml", 'r').read())
 
 location = tml.get("work_dir").get('clash')
 print(f"proxy_providers will be written to {location}")
