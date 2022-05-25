@@ -1,5 +1,4 @@
 # coding: UTF-8
-from requests.api import request
 import yaml
 import requests
 import toml
