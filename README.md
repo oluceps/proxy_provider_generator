@@ -1,6 +1,6 @@
 # proxy_provider_generator
 use to generate proxy-provider used in Clash from subscribe url
-
+# [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) had supported get proxy provider directly from general subscribe link.
 ## Quick Start  
 ### clone the repository  
 ```
